@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
+title: Katelin M. Hudak
+
+theme: minima
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a postdoctoral fellow at the Johns Hopkins Bloomberg School of Public Health. Before coming to Johns Hopkins, I earned my PhD in Public Policy from the University of North Carolina at Charlotte. 
+My primary research interests focus on how policies affect health outcomes and well-being, particularly among children and other vulnerable subpopulations. My broader research program encompasses a variety of topics, centering on evaluating health disparities through quantitative analysis and causal inference techniques. Through my research, I aim to shed light on the effects of programs, and to inform policy to improve the health and well-being of children and minority groups.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+Linked_in: https://www.linkedin.com/in/katelin-hudak/
+github_username:  Katelin-Hdk # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
